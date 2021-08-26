@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+.header{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    background-color: lavender;
+    height: 100px
+    
+
+}
+.title{
+    font-size:40px;
+    font-weight:700;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.color{
+    padding:30px;
+}
+
+.palette li{
+    display: inline-block;
+    list-style: none;
+    width:100px;
+    height:100px;
+    border: grey 1px solid;
+    padding: 40px ;
+    text-align: center;
+    border-radius: 50%;
+    line-height: 30px;
+    margin:10px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.palette ul{
+    border:black 1px solid;
+    border-radius: 5px;
+    padding:30px;
+    width: 420px;
+    margin: 16px auto;
+    background-color: papayawhip;
+}
+
+.palette .catogery{
+    font-size: 18px;
+    letter-spacing: 0.8px;
+}
+
+.palette .code{
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 1.9px;
+}
+
+li.aqua{
+    background-color: aqua;
+}
+li.aquamarine{
+    background-color: aquamarine;
+}
+li.pale{
+    background-color:  azure;
+}
+li.alice{
+    background-color: aliceblue;
+}
+
+.normal{
+    font-style: normal;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+.roboto{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.raleway{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.font-contain{
+    height:240px;
+    width: 400px;
+    display: inline-block;
+    margin:70px 30px 0px 30px;
+    
+    
+}
+.font-container{
+    border:black 1px solid;
+    border-radius: 5px;
+    width:1400px;
+    height: 300px;
+    font-size:19px;
+    background-color: papayawhip;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.fonts{
+    padding : 20px;
+    margin : 10px auto;
+    width:1300px;
+    
+    
+}
+
+.text-contain{
+    width: 400px;
+    height: 120px;
+    margin: 20px auto;
+    font-size: 19px;
+    
+}
+
+.text-container{
+    border: black 1px solid;
+    width:450px;
+    height:434px;
+    margin:30px auto;
+    border-radius: 5px;
+    background-color: papayawhip;
+    
+    
+}
